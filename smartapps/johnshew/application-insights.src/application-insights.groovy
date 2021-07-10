@@ -7,7 +7,7 @@
 definition(
     name: "Application Insights",
     namespace: "JohnShew",
-    author: "John Shew",
+    author: "John Shewchuk",
     description: "Log to Application Insights",
     category: "Convenience",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
