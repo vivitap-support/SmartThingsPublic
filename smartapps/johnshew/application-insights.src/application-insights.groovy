@@ -77,7 +77,6 @@ def handleWaterEvent(evt) {
 }
 
 def handleHumidityEvent(evt) {
-	log.debug "Azure Application Insights got event ${evt}"
 	sendValue(evt) { it.toString() }
 }
 
